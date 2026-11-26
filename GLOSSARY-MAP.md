@@ -4,4 +4,4 @@ Each case keeps its `GLOSSARY.md` in its own folder. Read the glossary for the c
 
 ## Cases
 
-Add a relative link here when a case gets its first glossary entry.
+- [Process Panel](./cases/process-panel/GLOSSARY.md)
