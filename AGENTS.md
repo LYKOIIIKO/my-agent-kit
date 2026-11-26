@@ -9,7 +9,7 @@ The repository root holds the shared kit: skills, configuration, and the develop
 - [`.agents/skills/`](.agents/skills/) contains the shared agent skills. Read the relevant `SKILL.md` before applying a skill.
 - [`docs/agents/`](docs/agents/) contains project guidance on issue tracking, triage labels, and domain documentation.
 - [`cases/`](cases/) holds individual cases. Use each case folder for its solutions and glossary.
-  - [`cases/process-panel/`](cases/process-panel/) is the folder for the process panel case.
+  - For work on the Process Panel, read the [case instructions](cases/process-panel/AGENTS.md).
 
 ## Language
 
